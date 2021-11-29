@@ -6,4 +6,4 @@ The following jupyter notebooks can be found in the repository:
 3) Data visualization using Matplotlib, Seaborn, Folium
 4) Construction, selection of hyperparameters and estimation of accuracy for classification models such as SVM, Logistic Regression, KNN and DecisionTreeClassifier.
 
-Also in the repository there is an application on the Dash framework and a presentation and research results.
+Also in the repository there is an application on the Dash framework and a presentation with research results.
